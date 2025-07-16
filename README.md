@@ -1,4 +1,4 @@
-#  Data Analytics Project: E-commerce Sales Dashboard
+# E-commerce Sales Dashboard
 
 ## Table of Contents
 - [Project Overview](#project-overview)
